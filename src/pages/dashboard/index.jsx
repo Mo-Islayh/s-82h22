@@ -23,6 +23,10 @@ function Index() {
   const Users = useSelector((state) => state.users.users)
   const { categories } = useCategory()
 
+  const options = {
+    responsive: true,
+  }
+
   const data = {
     labels,
     datasets: [
@@ -50,7 +54,13 @@ function Index() {
       <Item name="Total of Categories" amount={categories.length} />
       <Item name="Total of Users" amount={Users.length} />
 
-      <Bar data={data} />
+      <Bar
+        data={data}
+        options={options}
+        style={{
+          maxHeight: "400px",
+        }}
+      />
     </div>
   )
 }
