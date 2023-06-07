@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Widget 1",
+    "categories": ["Electronics", "Gadgets"],
+    "productId": "prod001"
+  },
+  {
+    "name": "Gizmo 2",
+    "categories": ["Electronics", "Gadgets"],
+    "productId": "prod002"
+  },
+  {
+    "name": "Thingamajig 3",
+    "categories": ["Tools", "Hardware"],
+    "productId": "prod003"
+  },
+  {
+    "name": "Doodad 4",
+    "categories": ["Electronics", "Accessories"],
+    "productId": "prod004"
+  },
+  {
+    "name": "Whatchamacallit 5",
+    "categories": ["Toys", "Games"],
+    "productId": "prod005"
+  },
+  {
+    "name": "Widget 6",
+    "categories": ["Electronics", "Gadgets"],
+    "productId": "prod006"
+  },
+  {
+    "name": "Gadget 7",
+    "categories": ["Electronics", "Gadgets"],
+    "productId": "prod007"
+  },
+  {
+    "name": "Tool 8",
+    "categories": ["Tools", "Hardware"],
+    "productId": "prod008"
+  },
+  {
+    "name": "Accessory 9",
+    "categories": ["Electronics", "Accessories"],
+    "productId": "prod009"
+  },
+  {
+    "name": "Game 10",
+    "categories": ["Toys", "Games"],
+    "productId": "prod010"
+  },
+  {
+    "name": "Thing 11",
+    "categories": ["Electronics", "Gadgets"],
+    "productId": "prod011"
+  },
+  {
+    "name": "Device 12",
+    "categories": ["Electronics", "Gadgets"],
+    "productId": "prod012"
+  },
+  {
+    "name": "Tool 13",
+    "categories": ["Tools", "Hardware"],
+    "productId": "prod013"
+  },
+  {
+    "name": "Accessory 14",
+    "categories": ["Electronics", "Accessories"],
+    "productId": "prod014"
+  },
+  {
+    "name": "Game 15",
+    "categories": ["Toys", "Games"],
+    "productId": "prod015"
+  },
+  {
+    "name": "Widget 16",
+    "categories": ["Electronics", "Gadgets"],
+    "productId": "prod016"
+  },
+  {
+    "name": "Gizmo 17",
+    "categories": ["Electronics", "Gadgets"],
+    "productId": "prod017"
+  }
+]

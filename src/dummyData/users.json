@@ -1,0 +1,100 @@
+[
+  {
+    "name": "John Doe",
+    "userId": "user001",
+    "userImg": "/images/user-img.jpg",
+    "email": "johndoe@example.com",
+    "password": "Passw0r3d@"
+  },
+  {
+    "name": "Jane Smith",
+    "userId": "user002",
+    "userImg": "/images/user-img.jpg",
+    "email": "janesmith@example.com",
+    "password": "Password1#"
+  },
+  {
+    "name": "David Johnson",
+    "userId": "user003",
+    "userImg": "/images/user-img.jpg",
+    "email": "davidjohnson@example.com",
+    "password": "Passw01rd!"
+  },
+  {
+    "name": "Emily Davis",
+    "userId": "user004",
+    "userImg": "/images/user-img.jpg",
+    "email": "emilydavis@example.com",
+    "password": "Password1%"
+  },
+  {
+    "name": "Michael Anderson",
+    "userId": "user005",
+    "userImg": "/images/user-img.jpg",
+    "email": "michaelanderson@example.com",
+    "password": "Passw0r2d!"
+  },
+  {
+    "name": "Sarah Wilson",
+    "userId": "user006",
+    "userImg": "/images/user-img.jpg",
+    "email": "sarahwilson@example.com",
+    "password": "#Password1!"
+  },
+  {
+    "name": "Daniel Taylor",
+    "userId": "user007",
+    "userImg": "/images/user-img.jpg",
+    "email": "danieltaylor@example.com",
+    "password": "Pass1w0r2d@"
+  },
+  {
+    "name": "Olivia Martinez",
+    "userId": "user008",
+    "userImg": "/images/user-img.jpg",
+    "email": "oliviamartinez@example.com",
+    "password": "Password11!"
+  },
+  {
+    "name": "Matthew Thomas",
+    "userId": "user009",
+    "userImg": "/images/user-img.jpg",
+    "email": "matthewthomas@example.com",
+    "password": "Pass3w0r2d$"
+  },
+  {
+    "name": "Sophia Rodriguez",
+    "userId": "user010",
+    "userImg": "/images/user-img.jpg",
+    "email": "sophiarodriguez@example.com",
+    "password": "Passwo3rd1!@"
+  },
+  {
+    "name": "James Lee",
+    "userId": "user011",
+    "userImg": "/images/user-img.jpg",
+    "email": "jameslee@example.com",
+    "password": "Passw0rd@!1"
+  },
+  {
+    "name": "Isabella Harris",
+    "userId": "user012",
+    "userImg": "/images/user-img.jpg",
+    "email": "isabellaharris@example.com",
+    "password": "Password!2@1"
+  },
+  {
+    "name": "William Clark",
+    "userId": "user013",
+    "userImg": "/images/user-img.jpg",
+    "email": "williamclark@example.com",
+    "password": "Passw0rd!2@"
+  },
+  {
+    "name": "Ava Lewis",
+    "userId": "user014",
+    "userImg": "/images/user-img.jpg",
+    "email": "avalewis@example.com",
+    "password": "Password1!a@"
+  }
+]
