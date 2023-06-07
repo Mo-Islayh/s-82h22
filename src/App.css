@@ -111,7 +111,7 @@ button:focus-visible {
 .dashboard-sidebar {
   max-width: 300px;
   min-width: 300px;
-  height: 100%;
+  height: 100vh;
   background: #fff;
   /* padding: 0 10px; */
   display: block;
@@ -533,8 +533,17 @@ tr:nth-child(even) {
   cursor: pointer;
 }
 
-.close-side-bar{
+.close-side-bar {
+  background: #f25366;
   display: none;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  border: 1px solid transparent;
+  padding: 5px;
+  color: #fff;
+  cursor: pointer;
+  /* margin-top: -150px; */
 }
 
 @media screen and (max-width: 600px) {
@@ -549,7 +558,7 @@ tr:nth-child(even) {
   .menu-btn {
     display: block;
   }
-  .close-side-bar{
+  .close-side-bar {
     display: block;
   }
 }

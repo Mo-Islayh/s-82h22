@@ -1,7 +1,11 @@
 import React from "react"
 import SagerLogo from "../../assets/SagerLogo.png"
 import { NavLink } from "react-router-dom"
-import { AiOutlineCloseCircle, AiOutlineHome } from "react-icons/ai"
+import {
+  AiOutlineCloseCircle,
+  AiOutlineHome,
+  AiOutlineMenuUnfold,
+} from "react-icons/ai"
 import { BsInboxes, BsBoxes } from "react-icons/bs"
 import { FiUsers } from "react-icons/fi"
 
@@ -20,7 +24,7 @@ function SideBar({ isNavOpen, setIsNavOpen }) {
             setIsNavOpen(!isNavOpen)
           }}
         >
-          <AiOutlineCloseCircle size={50} color="gray" />
+          <AiOutlineMenuUnfold />
         </div>
         <div className="logo-container">
           <img className="logo" src={SagerLogo} alt="Sager-Logo" />

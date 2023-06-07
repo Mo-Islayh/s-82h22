@@ -4,7 +4,9 @@ import Content from "./content"
 import { Outlet } from "react-router-dom"
 
 function Index() {
-  const [isNavOpen, setIsNavOpen] = useState(true)
+  const [isNavOpen, setIsNavOpen] = useState(
+    window.innerWidth <= 600 ? false : true
+  )
 
   const navOptions = {
     isNavOpen,
